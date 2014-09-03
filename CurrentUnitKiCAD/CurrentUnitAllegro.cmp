@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 11/08/2014 21:19:28
+
+BeginCmp
+TimeStamp = /53E91414;
+Reference = C1;
+ValeurCmp = 100nf;
+IdModule  = C1_wide_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E914F9;
+Reference = K1;
+ValeurCmp = DATA;
+IdModule  = SIL-3_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E91512;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_6mmhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9161D;
+Reference = P2;
+ValeurCmp = SHUNT;
+IdModule  = SIL-2_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E91530;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_3mmhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9153F;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_3mmhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9154E;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_3mmhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E9155D;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_3mmhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E91521;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_6mmhole;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E915A2;
+Reference = PCB1;
+ValeurCmp = PCB_DP_SQUARE-5X5;
+IdModule  = dp_devices-DP5050_V1;
+EndCmp
+
+BeginCmp
+TimeStamp = /53E913A7;
+Reference = U1;
+ValeurCmp = ACS756;
+IdModule  = ACS756;
+EndCmp
+
+EndListe
